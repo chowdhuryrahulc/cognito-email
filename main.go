@@ -7,6 +7,10 @@ in Image, user is front-end flutter app. Thats why microservices connections are
 attach policy: cognito power user, no need for key value so press next, Create User, 
 copy access key and secret key
 For Production, always create a custom IAM role
-secret_key: 
+2) 
+
+
+
+
 */
 
